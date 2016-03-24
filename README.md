@@ -19,7 +19,7 @@ class Member < ActiveRecord::Base
 end
 ```
 
-6. To allow a user to create a new tag, the controller action for a new tag should instantiate a new tag. Check out the documentation for the [fields_for tag](http://apidock.com/rails/ActionView/Helpers/FormBuilder/fields_for).
+6. To allow a user to create a new tag, the controller action for a new tag should instantiate a new tag. Check out the documentation for the [fields_for](http://apidock.com/rails/ActionView/Helpers/FormBuilder/fields_for).
 
 ## Resources
 [Strong Params](http://edgeguides.rubyonrails.org/action_controller_overview.html#strong-parameters)
@@ -31,3 +31,5 @@ end
 [Preventing Empty Records](http://guides.rubyonrails.org/form_helpers.html#preventing-empty-records)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/rails-blog-nested-forms' title='Rails Blog: Complex Nested Forms'>Rails Blog: Complex Nested Forms</a> on Learn.co and start learning to code for free.</p>
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/rails-blog-nested-forms'>Rails Blog: Complex Nested Forms Lab</a> on Learn.co and start learning to code for free.</p>
